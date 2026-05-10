@@ -1,15 +1,11 @@
 
 # secure-metrics-edge
-Zero-Trust Docker Hardening: From a vulnerable Node.js container to a hardened Distroless production-ready image. Demonstrates read-only FS, cap-drop, non-root user, a## 🎯 Project Overview
-=======
 # 🛡️ Zero-Trust Container Hardening
-
 ![Docker](https://shields.io)
 ![NodeJS](https://shields.io)
 ![Security](https://shields.io)
 
 ## 🎯 Project Overview
->>>>>>> 96bc34e (commit on github)
 This project demonstrates how to secure a Node.js microservice by migrating from a standard configuration (**Vulnerable**) to a high-security architecture (**Hardened**).
 
 ## 🛡️ Security Comparison
